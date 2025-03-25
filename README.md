@@ -34,6 +34,7 @@ Looking for **Undistort** part of the codes
 
 ## Exmaple
 <iframe src="https://github.com/Blue00101/opencv-KB-fisheye/edit/master/example.pdf" width="100%" height="800px"></iframe>
+[查看 PDF 文件](https://github.com/Blue00101/opencv-KB-fisheye/edit/master/example.pdf)
 
 ## LICENSE
 MIT license
