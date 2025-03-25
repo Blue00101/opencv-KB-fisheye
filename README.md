@@ -33,7 +33,7 @@ Looking for **Calibration** part of the codes
 Looking for **Undistort** part of the codes
 
 ## Exmaple
-![](example.pdf)
+![](example.png)
 
 ## LICENSE
 MIT license
