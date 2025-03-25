@@ -15,6 +15,7 @@ A comprehensive toolkit for fisheye camera calibration and image undistortion ba
 ```bash
 conda create -n fisheye-py36 python=3.6
 conda activate fisheye-py36
+```
 
 ### Dependecy Installation
 To get started, you need to clone the repository and install the necessary dependencies.
@@ -23,3 +24,16 @@ To get started, you need to clone the repository and install the necessary depen
 git clone https://github.com/Blue00101/opencv-KB-fisheye.git
 cd opencv-KB-fisheye
 pip install -r requirements.txt
+```
+
+## Run
+### Fisheye camera calibration
+Looking for **Calibration** part of the codes
+### Image Undistortion
+Looking for **Undistort** part of the codes
+
+## Exmaple
+![Example Image](images/example.png)
+
+## LICENSE
+MIT license
